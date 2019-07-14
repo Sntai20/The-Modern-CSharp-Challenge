@@ -1,0 +1,10 @@
+/Users/antonio/Documents/GitHub/The-Modern-CSharp-Challenge/Chapter09/CaesarCipher/bin/Debug/CaesarCipher.exe.config
+/Users/antonio/Documents/GitHub/The-Modern-CSharp-Challenge/Chapter09/CaesarCipher/bin/Debug/CaesarCipher.exe
+/Users/antonio/Documents/GitHub/The-Modern-CSharp-Challenge/Chapter09/CaesarCipher/bin/Debug/CaesarCipher.pdb
+/Users/antonio/Documents/GitHub/The-Modern-CSharp-Challenge/Chapter09/CaesarCipher/obj/Debug/CaesarCipher.csprojAssemblyReference.cache
+/Users/antonio/Documents/GitHub/The-Modern-CSharp-Challenge/Chapter09/CaesarCipher/obj/Debug/CaesarCipher.Form1.resources
+/Users/antonio/Documents/GitHub/The-Modern-CSharp-Challenge/Chapter09/CaesarCipher/obj/Debug/CaesarCipher.Properties.Resources.resources
+/Users/antonio/Documents/GitHub/The-Modern-CSharp-Challenge/Chapter09/CaesarCipher/obj/Debug/CaesarCipher.csproj.GenerateResource.cache
+/Users/antonio/Documents/GitHub/The-Modern-CSharp-Challenge/Chapter09/CaesarCipher/obj/Debug/CaesarCipher.csproj.CoreCompileInputs.cache
+/Users/antonio/Documents/GitHub/The-Modern-CSharp-Challenge/Chapter09/CaesarCipher/obj/Debug/CaesarCipher.exe
+/Users/antonio/Documents/GitHub/The-Modern-CSharp-Challenge/Chapter09/CaesarCipher/obj/Debug/CaesarCipher.pdb
